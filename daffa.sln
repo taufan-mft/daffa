@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "daffa", "daffa\daffa.vbproj", "{D86A5FD8-1CB3-4A0F-9B1A-E7751F6A1F5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86A5FD8-1CB3-4A0F-9B1A-E7751F6A1F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86A5FD8-1CB3-4A0F-9B1A-E7751F6A1F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86A5FD8-1CB3-4A0F-9B1A-E7751F6A1F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86A5FD8-1CB3-4A0F-9B1A-E7751F6A1F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE04FAC-B1CD-4B26-8895-FFBD4364E0EB}
+	EndGlobalSection
+EndGlobal
