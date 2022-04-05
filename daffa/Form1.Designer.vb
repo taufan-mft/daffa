@@ -60,7 +60,7 @@ Partial Class Form1
         'ComboBox1
         '
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Celcius", "Kelvin", "Reamur", "Fahrenheit"})
+        Me.ComboBox1.Items.AddRange(New Object() {"IDR", "USD", "Poundsterling", "Euro"})
         Me.ComboBox1.Location = New System.Drawing.Point(47, 118)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(121, 21)
@@ -94,7 +94,7 @@ Partial Class Form1
         'ComboBox2
         '
         Me.ComboBox2.FormattingEnabled = True
-        Me.ComboBox2.Items.AddRange(New Object() {"Celcius", "Kelvin", "Reamur", "Fahrenheit"})
+        Me.ComboBox2.Items.AddRange(New Object() {"IDR", "USD", "Poundsterling", "Euro"})
         Me.ComboBox2.Location = New System.Drawing.Point(254, 118)
         Me.ComboBox2.Name = "ComboBox2"
         Me.ComboBox2.Size = New System.Drawing.Size(121, 21)
